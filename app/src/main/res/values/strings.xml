@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="ok">Ok</string>
+
+    <string name="could_not_refresh">Could not refresh(Check internet connection): %s</string>
+    <string name="could_not_load_search_results">Could not load search results: %s</string>
+    <string name="unknown_error_occurred">An unknown error occurred</string>
+    <string name="retry">Retry</string>
+</resources>
